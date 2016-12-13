@@ -13,19 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coopermaruyama/tableau-react.git"
+    "url": "git+https://github.com/agrarianlabs/tableau-react.git"
   },
   "keywords": [
     "tableau",
-    "react",
-    "jsx"
+    "react"
   ],
   "author": "Cooper Maruyama",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coopermaruyama/tableau-react/issues"
+    "url": "https://github.com/agrarianlabs/tableau-react/issues"
   },
-  "homepage": "https://github.com/coopermaruyama/tableau-react#readme",
+  "homepage": "https://github.com/agrarianlabs/tableau-react#readme",
   "peerDependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
