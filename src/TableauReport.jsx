@@ -1,9 +1,9 @@
 import React, { PropTypes } from 'react';
-import url from 'url';
-import { Promise } from 'es6-promise';
-import shallowequal from 'shallowequal';
-import tokenizeUrl from './tokenizeUrl';
-import Tableau from 'tableau-api';
+import url                  from 'url';
+import { Promise }          from 'es6-promise';
+import shallowequal         from 'shallowequal';
+import tokenizeUrl          from './tokenizeUrl';
+import Tableau              from './tableauApi';
 
 const propTypes = {
   filters: PropTypes.object,
